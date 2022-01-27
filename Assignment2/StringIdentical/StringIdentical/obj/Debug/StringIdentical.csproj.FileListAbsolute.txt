@@ -1,0 +1,7 @@
+C:\ZensarTestGit\Assignment2\StringIdentical\StringIdentical\bin\Debug\StringIdentical.exe.config
+C:\ZensarTestGit\Assignment2\StringIdentical\StringIdentical\bin\Debug\StringIdentical.exe
+C:\ZensarTestGit\Assignment2\StringIdentical\StringIdentical\bin\Debug\StringIdentical.pdb
+C:\ZensarTestGit\Assignment2\StringIdentical\StringIdentical\obj\Debug\StringIdentical.csproj.SuggestedBindingRedirects.cache
+C:\ZensarTestGit\Assignment2\StringIdentical\StringIdentical\obj\Debug\StringIdentical.csproj.CoreCompileInputs.cache
+C:\ZensarTestGit\Assignment2\StringIdentical\StringIdentical\obj\Debug\StringIdentical.exe
+C:\ZensarTestGit\Assignment2\StringIdentical\StringIdentical\obj\Debug\StringIdentical.pdb

@@ -1,0 +1,8 @@
+C:\ZensarTestGit\Assignment2\Accounts\Accounts\bin\Debug\Accounts.exe.config
+C:\ZensarTestGit\Assignment2\Accounts\Accounts\bin\Debug\Accounts.exe
+C:\ZensarTestGit\Assignment2\Accounts\Accounts\bin\Debug\Accounts.pdb
+C:\ZensarTestGit\Assignment2\Accounts\Accounts\obj\Debug\Accounts.csproj.AssemblyReference.cache
+C:\ZensarTestGit\Assignment2\Accounts\Accounts\obj\Debug\Accounts.csproj.SuggestedBindingRedirects.cache
+C:\ZensarTestGit\Assignment2\Accounts\Accounts\obj\Debug\Accounts.csproj.CoreCompileInputs.cache
+C:\ZensarTestGit\Assignment2\Accounts\Accounts\obj\Debug\Accounts.exe
+C:\ZensarTestGit\Assignment2\Accounts\Accounts\obj\Debug\Accounts.pdb

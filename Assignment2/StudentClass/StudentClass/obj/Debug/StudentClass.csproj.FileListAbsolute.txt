@@ -1,0 +1,8 @@
+C:\ZensarTestGit\Assignment2\StudentClass\StudentClass\bin\Debug\StudentClass.exe.config
+C:\ZensarTestGit\Assignment2\StudentClass\StudentClass\bin\Debug\StudentClass.exe
+C:\ZensarTestGit\Assignment2\StudentClass\StudentClass\bin\Debug\StudentClass.pdb
+C:\ZensarTestGit\Assignment2\StudentClass\StudentClass\obj\Debug\StudentClass.csproj.AssemblyReference.cache
+C:\ZensarTestGit\Assignment2\StudentClass\StudentClass\obj\Debug\StudentClass.csproj.SuggestedBindingRedirects.cache
+C:\ZensarTestGit\Assignment2\StudentClass\StudentClass\obj\Debug\StudentClass.csproj.CoreCompileInputs.cache
+C:\ZensarTestGit\Assignment2\StudentClass\StudentClass\obj\Debug\StudentClass.exe
+C:\ZensarTestGit\Assignment2\StudentClass\StudentClass\obj\Debug\StudentClass.pdb

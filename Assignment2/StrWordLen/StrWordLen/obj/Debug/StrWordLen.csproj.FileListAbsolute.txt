@@ -1,0 +1,8 @@
+C:\ZensarTestGit\Assignment2\StrWordLen\StrWordLen\bin\Debug\StrWordLen.exe.config
+C:\ZensarTestGit\Assignment2\StrWordLen\StrWordLen\bin\Debug\StrWordLen.exe
+C:\ZensarTestGit\Assignment2\StrWordLen\StrWordLen\bin\Debug\StrWordLen.pdb
+C:\ZensarTestGit\Assignment2\StrWordLen\StrWordLen\obj\Debug\StrWordLen.csproj.AssemblyReference.cache
+C:\ZensarTestGit\Assignment2\StrWordLen\StrWordLen\obj\Debug\StrWordLen.csproj.SuggestedBindingRedirects.cache
+C:\ZensarTestGit\Assignment2\StrWordLen\StrWordLen\obj\Debug\StrWordLen.csproj.CoreCompileInputs.cache
+C:\ZensarTestGit\Assignment2\StrWordLen\StrWordLen\obj\Debug\StrWordLen.exe
+C:\ZensarTestGit\Assignment2\StrWordLen\StrWordLen\obj\Debug\StrWordLen.pdb

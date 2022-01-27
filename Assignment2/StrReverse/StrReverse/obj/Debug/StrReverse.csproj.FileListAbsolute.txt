@@ -1,0 +1,7 @@
+C:\ZensarTestGit\Assignment2\StrReverse\StrReverse\bin\Debug\StrReverse.exe.config
+C:\ZensarTestGit\Assignment2\StrReverse\StrReverse\bin\Debug\StrReverse.exe
+C:\ZensarTestGit\Assignment2\StrReverse\StrReverse\bin\Debug\StrReverse.pdb
+C:\ZensarTestGit\Assignment2\StrReverse\StrReverse\obj\Debug\StrReverse.csproj.SuggestedBindingRedirects.cache
+C:\ZensarTestGit\Assignment2\StrReverse\StrReverse\obj\Debug\StrReverse.csproj.CoreCompileInputs.cache
+C:\ZensarTestGit\Assignment2\StrReverse\StrReverse\obj\Debug\StrReverse.exe
+C:\ZensarTestGit\Assignment2\StrReverse\StrReverse\obj\Debug\StrReverse.pdb
