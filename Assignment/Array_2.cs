@@ -1,4 +1,12 @@
-﻿using System;
+/*2.	Write a program in C# to accept ten marks and display the 
+		following
+a.	Total
+b.	Average
+c.	Minimum marks
+d.	Maximum marks
+e.	Display marks in ascending order
+f.	Display marks in descending order*/
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
