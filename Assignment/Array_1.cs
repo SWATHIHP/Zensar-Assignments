@@ -1,4 +1,7 @@
-﻿using System;
+/*1. Write a  Program to assign integer to an array  and then print the following
+a.	Average value of Array elements
+b.	Minimum and Maximum value in an array */
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
