@@ -1,11 +1,19 @@
+<<<<<<< HEAD
 /* 2.	Write a program in C# to accept ten marks and display the 
+=======
+/*2.	Write a program in C# to accept ten marks and display the 
+>>>>>>> 8960c12e279b382070672fd4da9d5b17b9c86252
 		following
 a.	Total
 b.	Average
 c.	Minimum marks
 d.	Maximum marks
 e.	Display marks in ascending order
+<<<<<<< HEAD
 f.	Display marks in descending order
+=======
+f.	Display marks in descending order*/
+>>>>>>> 8960c12e279b382070672fd4da9d5b17b9c86252
 using System;
 using System.Collections.Generic;
 using System.Linq;

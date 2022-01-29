@@ -1,4 +1,11 @@
-﻿using System;
+/*2. Create a class called student which has data members like rollno, name, class, SEM, branch,int [] marks=new int marks [5](marks of 5 subjects )
+-Write a method called displayresult, which should calculate the average marks
+-If marks of any one subject is less than 35 print result as failed
+-If marks of all subject is >35 but average is < 50 then also print result as failed
+-If avg > 50 then print result as passed.
+-Pass the details of student like rollno, name, class, SEM, branch in constructor
+-Write a Display Data method to display all values.*/
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;

@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 //1. 	Write a  Program to assign integer to an array  and then print the following
 //a.	 Average value of Array elements
 //b.	Minimum and Maximum value in an array 
+=======
+/*1. Write a  Program to assign integer to an array  and then print the following
+a.	Average value of Array elements
+b.	Minimum and Maximum value in an array */
+>>>>>>> 8960c12e279b382070672fd4da9d5b17b9c86252
 using System;
 using System.Collections.Generic;
 using System.Linq;
