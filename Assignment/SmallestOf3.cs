@@ -1,4 +1,6 @@
-﻿using System;
+//3. Create a program, which accepts 3 numbers as input from the user and prints the largest and smallest of 3 numbers.
+ 
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;

@@ -1,4 +1,7 @@
-﻿using System;
+/*1.Write a program in C# to accept the name of the user and greet the user as:
+	“Hi! username 
+	Welcome to the world of C#”﻿*/
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;

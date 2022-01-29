@@ -1,4 +1,8 @@
-﻿using System;
+//4.Write a program which accepts marks of 5 students for C#,HTML and Sql (3 subjects),calculates the average and prints result as passed or failed
+//If avg < 50 then failed else passed. 
+
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;

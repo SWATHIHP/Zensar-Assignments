@@ -1,0 +1,8 @@
+C:\ZensarTestGit\Assignment3\StudentInterface\StudentInterface\obj\Debug\StudentInterface.csproj.AssemblyReference.cache
+C:\ZensarTestGit\Assignment3\StudentInterface\StudentInterface\obj\Debug\StudentInterface.csproj.SuggestedBindingRedirects.cache
+C:\ZensarTestGit\Assignment3\StudentInterface\StudentInterface\obj\Debug\StudentInterface.csproj.CoreCompileInputs.cache
+C:\ZensarTestGit\Assignment3\StudentInterface\StudentInterface\bin\Debug\StudentInterface.exe.config
+C:\ZensarTestGit\Assignment3\StudentInterface\StudentInterface\bin\Debug\StudentInterface.exe
+C:\ZensarTestGit\Assignment3\StudentInterface\StudentInterface\bin\Debug\StudentInterface.pdb
+C:\ZensarTestGit\Assignment3\StudentInterface\StudentInterface\obj\Debug\StudentInterface.exe
+C:\ZensarTestGit\Assignment3\StudentInterface\StudentInterface\obj\Debug\StudentInterface.pdb
