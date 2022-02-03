@@ -1,0 +1,8 @@
+C:\Users\SWATHI\source\Banu Day2(21-jan-22)\B_ConsoleDay2\B_ConsoleDay2\bin\Debug\B_ConsoleDay2.exe.config
+C:\Users\SWATHI\source\Banu Day2(21-jan-22)\B_ConsoleDay2\B_ConsoleDay2\bin\Debug\B_ConsoleDay2.exe
+C:\Users\SWATHI\source\Banu Day2(21-jan-22)\B_ConsoleDay2\B_ConsoleDay2\bin\Debug\B_ConsoleDay2.pdb
+C:\Users\SWATHI\source\Banu Day2(21-jan-22)\B_ConsoleDay2\B_ConsoleDay2\obj\Debug\B_ConsoleDay2.csproj.AssemblyReference.cache
+C:\Users\SWATHI\source\Banu Day2(21-jan-22)\B_ConsoleDay2\B_ConsoleDay2\obj\Debug\B_ConsoleDay2.csproj.SuggestedBindingRedirects.cache
+C:\Users\SWATHI\source\Banu Day2(21-jan-22)\B_ConsoleDay2\B_ConsoleDay2\obj\Debug\B_ConsoleDay2.csproj.CoreCompileInputs.cache
+C:\Users\SWATHI\source\Banu Day2(21-jan-22)\B_ConsoleDay2\B_ConsoleDay2\obj\Debug\B_ConsoleDay2.exe
+C:\Users\SWATHI\source\Banu Day2(21-jan-22)\B_ConsoleDay2\B_ConsoleDay2\obj\Debug\B_ConsoleDay2.pdb

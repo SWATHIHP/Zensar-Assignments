@@ -1,0 +1,8 @@
+C:\Users\SH65798\source\source\03-Feb-22\Feb3Prj\Feb3Prj\bin\Debug\Feb3Prj.exe.config
+C:\Users\SH65798\source\source\03-Feb-22\Feb3Prj\Feb3Prj\bin\Debug\Feb3Prj.exe
+C:\Users\SH65798\source\source\03-Feb-22\Feb3Prj\Feb3Prj\bin\Debug\Feb3Prj.pdb
+C:\Users\SH65798\source\source\03-Feb-22\Feb3Prj\Feb3Prj\obj\Debug\Feb3Prj.csproj.AssemblyReference.cache
+C:\Users\SH65798\source\source\03-Feb-22\Feb3Prj\Feb3Prj\obj\Debug\Feb3Prj.csproj.SuggestedBindingRedirects.cache
+C:\Users\SH65798\source\source\03-Feb-22\Feb3Prj\Feb3Prj\obj\Debug\Feb3Prj.csproj.CoreCompileInputs.cache
+C:\Users\SH65798\source\source\03-Feb-22\Feb3Prj\Feb3Prj\obj\Debug\Feb3Prj.exe
+C:\Users\SH65798\source\source\03-Feb-22\Feb3Prj\Feb3Prj\obj\Debug\Feb3Prj.pdb

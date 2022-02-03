@@ -1,0 +1,8 @@
+C:\Users\SWATHI\source\Day 4(20-jan22)\FirstConsolePrj\FirstConsolePrj\bin\Debug\FirstConsolePrj.exe.config
+C:\Users\SWATHI\source\Day 4(20-jan22)\FirstConsolePrj\FirstConsolePrj\bin\Debug\FirstConsolePrj.exe
+C:\Users\SWATHI\source\Day 4(20-jan22)\FirstConsolePrj\FirstConsolePrj\bin\Debug\FirstConsolePrj.pdb
+C:\Users\SWATHI\source\Day 4(20-jan22)\FirstConsolePrj\FirstConsolePrj\obj\Debug\FirstConsolePrj.csproj.AssemblyReference.cache
+C:\Users\SWATHI\source\Day 4(20-jan22)\FirstConsolePrj\FirstConsolePrj\obj\Debug\FirstConsolePrj.csproj.SuggestedBindingRedirects.cache
+C:\Users\SWATHI\source\Day 4(20-jan22)\FirstConsolePrj\FirstConsolePrj\obj\Debug\FirstConsolePrj.csproj.CoreCompileInputs.cache
+C:\Users\SWATHI\source\Day 4(20-jan22)\FirstConsolePrj\FirstConsolePrj\obj\Debug\FirstConsolePrj.exe
+C:\Users\SWATHI\source\Day 4(20-jan22)\FirstConsolePrj\FirstConsolePrj\obj\Debug\FirstConsolePrj.pdb

@@ -1,0 +1,8 @@
+C:\Users\SWATHI\source\Day 3\Demo_Collection\Demo_Collection\bin\Debug\Demo_Collection.exe.config
+C:\Users\SWATHI\source\Day 3\Demo_Collection\Demo_Collection\bin\Debug\Demo_Collection.exe
+C:\Users\SWATHI\source\Day 3\Demo_Collection\Demo_Collection\bin\Debug\Demo_Collection.pdb
+C:\Users\SWATHI\source\Day 3\Demo_Collection\Demo_Collection\obj\Debug\Demo_Collection.csproj.AssemblyReference.cache
+C:\Users\SWATHI\source\Day 3\Demo_Collection\Demo_Collection\obj\Debug\Demo_Collection.csproj.SuggestedBindingRedirects.cache
+C:\Users\SWATHI\source\Day 3\Demo_Collection\Demo_Collection\obj\Debug\Demo_Collection.csproj.CoreCompileInputs.cache
+C:\Users\SWATHI\source\Day 3\Demo_Collection\Demo_Collection\obj\Debug\Demo_Collection.exe
+C:\Users\SWATHI\source\Day 3\Demo_Collection\Demo_Collection\obj\Debug\Demo_Collection.pdb

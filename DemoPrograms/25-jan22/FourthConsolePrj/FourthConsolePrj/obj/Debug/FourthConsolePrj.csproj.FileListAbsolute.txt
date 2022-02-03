@@ -1,0 +1,8 @@
+C:\Users\SH65798\source\source\B_Day4(25-jan2022)\FourthConsolePrj\FourthConsolePrj\bin\Debug\FourthConsolePrj.exe.config
+C:\Users\SH65798\source\source\B_Day4(25-jan2022)\FourthConsolePrj\FourthConsolePrj\bin\Debug\FourthConsolePrj.exe
+C:\Users\SH65798\source\source\B_Day4(25-jan2022)\FourthConsolePrj\FourthConsolePrj\bin\Debug\FourthConsolePrj.pdb
+C:\Users\SH65798\source\source\B_Day4(25-jan2022)\FourthConsolePrj\FourthConsolePrj\obj\Debug\FourthConsolePrj.csproj.AssemblyReference.cache
+C:\Users\SH65798\source\source\B_Day4(25-jan2022)\FourthConsolePrj\FourthConsolePrj\obj\Debug\FourthConsolePrj.csproj.SuggestedBindingRedirects.cache
+C:\Users\SH65798\source\source\B_Day4(25-jan2022)\FourthConsolePrj\FourthConsolePrj\obj\Debug\FourthConsolePrj.csproj.CoreCompileInputs.cache
+C:\Users\SH65798\source\source\B_Day4(25-jan2022)\FourthConsolePrj\FourthConsolePrj\obj\Debug\FourthConsolePrj.exe
+C:\Users\SH65798\source\source\B_Day4(25-jan2022)\FourthConsolePrj\FourthConsolePrj\obj\Debug\FourthConsolePrj.pdb
