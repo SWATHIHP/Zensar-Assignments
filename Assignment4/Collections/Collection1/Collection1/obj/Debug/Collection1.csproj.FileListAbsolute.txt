@@ -1,0 +1,3 @@
+C:\ZensarTestGit\Assignment4\Collections\Collection1\Collection1\obj\Debug\Collection1.csproj.AssemblyReference.cache
+C:\ZensarTestGit\Assignment4\Collections\Collection1\Collection1\obj\Debug\Collection1.csproj.SuggestedBindingRedirects.cache
+C:\ZensarTestGit\Assignment4\Collections\Collection1\Collection1\obj\Debug\Collection1.csproj.CoreCompileInputs.cache

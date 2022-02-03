@@ -1,0 +1,6 @@
+C:\ZensarTestGit\Assignment4\Library\AssignmentLibrary\LibraryAssgnmnt\CalculateMethod\CalulateMethod\CalulateMethod\bin\Debug\CalulateMethod.dll
+C:\ZensarTestGit\Assignment4\Library\AssignmentLibrary\LibraryAssgnmnt\CalculateMethod\CalulateMethod\CalulateMethod\bin\Debug\CalulateMethod.pdb
+C:\ZensarTestGit\Assignment4\Library\AssignmentLibrary\LibraryAssgnmnt\CalculateMethod\CalulateMethod\CalulateMethod\obj\Debug\CalulateMethod.csproj.AssemblyReference.cache
+C:\ZensarTestGit\Assignment4\Library\AssignmentLibrary\LibraryAssgnmnt\CalculateMethod\CalulateMethod\CalulateMethod\obj\Debug\CalulateMethod.csproj.CoreCompileInputs.cache
+C:\ZensarTestGit\Assignment4\Library\AssignmentLibrary\LibraryAssgnmnt\CalculateMethod\CalulateMethod\CalulateMethod\obj\Debug\CalulateMethod.dll
+C:\ZensarTestGit\Assignment4\Library\AssignmentLibrary\LibraryAssgnmnt\CalculateMethod\CalulateMethod\CalulateMethod\obj\Debug\CalulateMethod.pdb

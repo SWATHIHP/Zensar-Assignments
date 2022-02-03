@@ -7,7 +7,7 @@ using CalculatorLibrary;
 
 namespace CalculatorExtension2
 {
-    public class Class1
+    public  static class Class1
     {
         public static string Message(this Calculatorclass cobj,string str)
         {
@@ -16,7 +16,7 @@ namespace CalculatorExtension2
         }
         public static int Divide(this Caculatorclass cobj,int x, int y)
         {
-
+            return x / y;
         }
     }
 }
