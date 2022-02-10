@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "59e72640-a8be-4637-b396-4a4f8ef404c1": {
+      "ProjectGuid": "59e72640-a8be-4637-b396-4a4f8ef404c1",
+      "DisplayName": "Main_MSTest",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
