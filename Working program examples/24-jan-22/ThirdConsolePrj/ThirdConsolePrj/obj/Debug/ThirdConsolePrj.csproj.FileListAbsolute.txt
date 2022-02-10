@@ -1,8 +1,0 @@
-C:\Users\SH65798\source\source\B_Day3(24-jan-22)\ThirdConsolePrj\ThirdConsolePrj\bin\Debug\ThirdConsolePrj.exe.config
-C:\Users\SH65798\source\source\B_Day3(24-jan-22)\ThirdConsolePrj\ThirdConsolePrj\bin\Debug\ThirdConsolePrj.exe
-C:\Users\SH65798\source\source\B_Day3(24-jan-22)\ThirdConsolePrj\ThirdConsolePrj\bin\Debug\ThirdConsolePrj.pdb
-C:\Users\SH65798\source\source\B_Day3(24-jan-22)\ThirdConsolePrj\ThirdConsolePrj\obj\Debug\ThirdConsolePrj.csproj.AssemblyReference.cache
-C:\Users\SH65798\source\source\B_Day3(24-jan-22)\ThirdConsolePrj\ThirdConsolePrj\obj\Debug\ThirdConsolePrj.csproj.SuggestedBindingRedirects.cache
-C:\Users\SH65798\source\source\B_Day3(24-jan-22)\ThirdConsolePrj\ThirdConsolePrj\obj\Debug\ThirdConsolePrj.csproj.CoreCompileInputs.cache
-C:\Users\SH65798\source\source\B_Day3(24-jan-22)\ThirdConsolePrj\ThirdConsolePrj\obj\Debug\ThirdConsolePrj.exe
-C:\Users\SH65798\source\source\B_Day3(24-jan-22)\ThirdConsolePrj\ThirdConsolePrj\obj\Debug\ThirdConsolePrj.pdb

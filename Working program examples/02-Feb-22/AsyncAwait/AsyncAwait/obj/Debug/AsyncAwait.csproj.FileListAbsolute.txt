@@ -1,9 +1,0 @@
-C:\Users\SH65798\source\source\02-Feb-22\AsyncAwait\AsyncAwait\bin\Debug\AsyncAwait.dll
-C:\Users\SH65798\source\source\02-Feb-22\AsyncAwait\AsyncAwait\bin\Debug\AsyncAwait.pdb
-C:\Users\SH65798\source\source\02-Feb-22\AsyncAwait\AsyncAwait\obj\Debug\AsyncAwait.csproj.AssemblyReference.cache
-C:\Users\SH65798\source\source\02-Feb-22\AsyncAwait\AsyncAwait\obj\Debug\AsyncAwait.Form1.resources
-C:\Users\SH65798\source\source\02-Feb-22\AsyncAwait\AsyncAwait\obj\Debug\AsyncAwait.csproj.GenerateResource.cache
-C:\Users\SH65798\source\source\02-Feb-22\AsyncAwait\AsyncAwait\obj\Debug\AsyncAwait.csproj.CoreCompileInputs.cache
-C:\Users\SH65798\source\source\02-Feb-22\AsyncAwait\AsyncAwait\obj\Debug\AsyncAwait.dll
-C:\Users\SH65798\source\source\02-Feb-22\AsyncAwait\AsyncAwait\obj\Debug\AsyncAwait.pdb
-C:\Users\SH65798\source\source\02-Feb-22\AsyncAwait\AsyncAwait\obj\Debug\AsyncAwait.UserControl1.resources
