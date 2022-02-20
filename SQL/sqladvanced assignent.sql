@@ -1,3 +1,13 @@
+/*
+1.	Write a T-SQL Program to generate complete payslip of a given employee with respect to the following condition
+a)	HRA  as 10% Of sal
+b)	DA as  20% of sal
+c)	PF as 8% of sal
+d)	IT as 5% of sal
+e)	Deductions as sum of PF and IT
+f)	Gross Salary as sum of SAL,HRA,DA and Deductions
+g)	Net salary as  Gross salary- Deduction
+*/
 
 begin
 declare @salary float=33000
@@ -25,6 +35,9 @@ print 'Net salary is:'
 print @Net_salary
 end
 --+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+/*Write a T-SQL Program to Display complete result of a given student. 
+(Note: Consider 10th standard result sheet and Student table structure as (sno,sname,maths,phy,comp)
+*/
 
 begin
 declare @SNo int,@SName varchar(20),@Maths int,@Phy int,@Comp int
@@ -48,6 +61,8 @@ drop table Result
 
 
 --+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+--Write a T-SQL Program to find the factorial of a given number.
+
 
 declare @fact int=1,@given_num int = 6		
 while @given_num > 0
@@ -58,6 +73,8 @@ end
 select @fact as 'Factorial'
 
 --+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+--Create a stored procedure to generate multiplication tables up to a given number.
+
 create procedure multi  @num int
 as
 begin
@@ -82,6 +99,13 @@ exec multi 5
 
 
 --+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+/*
+Create a user defined function calculate Bonus for all employees of a  given job using following conditions
+a.	       For Deptno10 employees 15% of sal as bonus.
+b.	       For Deptno20 employees  20% of sal as bonus
+c.	      For Others employees 5%of sal as bonus
+*/
+
 create table EMP (Empid int,Empname varchar(20),Salary float,Dept int)
 
 insert into EMP values
@@ -124,6 +148,42 @@ select * from Emp_bonus1(10)
 select * from Emp_bonus1(20)
 select * from Emp_bonus1(30)
 select * from Emp_bonus1(40)
+
+--+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+/*Create a trigger to restrict data manipulation on EMP table during General holidays. 
+Display the error message like “Due to Independence day you cannot manipulate data”
+Note: Create holiday table as (holiday_date,Holiday_name) store at least 4 holiday details*/
+
+create table General_Holiday
+(Holiday_Date varchar(30),
+Holiday_Name varchar(40) primary key)
+
+select * from General_Holiday
+
+insert into General_Holiday
+values('15-August','Independence Day'),
+('26-January','Republic Day'),
+('10-April','Rama Navami'),
+('14-April','Ambedkar Jayanti'),
+('2-October','Ghandhi Jayanti'),
+('25-December','Christmas Day')
+
+create or alter trigger trgRestrict_Data_Manipulation
+on General_Holiday
+instead of delete,insert,update
+as
+begin
+  raiserror('Due to Public Holiday you cannot Manipulate Data',16,1)
+end
+
+insert into General_Holiday
+values('5-Sep', 'Teachers Day')
+
+update General_Holiday set Holiday_Date = '4-Aug' where Holiday_Date = '5-Sep'
+
+delete from General_Holiday where Holiday_Date = '15-Aug'
+
+select * from General_Holiday
 
 
 
