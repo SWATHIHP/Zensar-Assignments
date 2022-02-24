@@ -63,24 +63,11 @@ namespace LinqAssignment
             Console.WriteLine();
             Console.WriteLine();
 
-
-
-            //e = emplist.Where(f => f.LastName == "S?");
-            //foreach (var f in e)
-            //{
-            //    Console.WriteLine(f.EmployeeId + "\t" + f.FirstName + "\t" + f.LastName + "\t" + f.Title + "\t" + f.DOB + "\t" + f.DOJ + "\t" + f.City);
-            //}
-            //Console.WriteLine();
-            //Console.WriteLine();
-
             //d. Display details of all the employee whose Last Name start with S
 
             e = from w in emplist
                 where w.LastName.StartsWith("S")
                 select w;
-
-
-
             foreach (var f in e)
             {
                 Console.WriteLine(f.EmployeeId + "\t" + f.FirstName + "\t" + f.LastName + "\t" + f.Title + "\t" + f.DOB + "\t" + f.DOJ + "\t" + f.City);
@@ -162,7 +149,6 @@ namespace LinqAssignment
 
             //m. Display total number of employee based on City
 
-
             var ct = from p in emplist
                      group p by p.City into g
                      select new { City = g.Key, ProductCount = g.Count() };
@@ -173,7 +159,6 @@ namespace LinqAssignment
             }
             Console.WriteLine();
             Console.WriteLine();
-
 
             //n. Display total number of employee based on city and title
 
