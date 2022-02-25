@@ -1,8 +1,0 @@
-C:\Users\SH65798\source\source\07-feb-22\FullFactoryPattern\FullFactoryPattern\bin\Debug\FullFactoryPattern.exe.config
-C:\Users\SH65798\source\source\07-feb-22\FullFactoryPattern\FullFactoryPattern\bin\Debug\FullFactoryPattern.exe
-C:\Users\SH65798\source\source\07-feb-22\FullFactoryPattern\FullFactoryPattern\bin\Debug\FullFactoryPattern.pdb
-C:\Users\SH65798\source\source\07-feb-22\FullFactoryPattern\FullFactoryPattern\obj\Debug\FullFactoryPattern.csproj.AssemblyReference.cache
-C:\Users\SH65798\source\source\07-feb-22\FullFactoryPattern\FullFactoryPattern\obj\Debug\FullFactoryPattern.csproj.SuggestedBindingRedirects.cache
-C:\Users\SH65798\source\source\07-feb-22\FullFactoryPattern\FullFactoryPattern\obj\Debug\FullFactoryPattern.csproj.CoreCompileInputs.cache
-C:\Users\SH65798\source\source\07-feb-22\FullFactoryPattern\FullFactoryPattern\obj\Debug\FullFactoryPattern.exe
-C:\Users\SH65798\source\source\07-feb-22\FullFactoryPattern\FullFactoryPattern\obj\Debug\FullFactoryPattern.pdb

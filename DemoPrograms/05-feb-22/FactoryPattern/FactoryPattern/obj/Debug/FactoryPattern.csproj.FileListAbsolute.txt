@@ -1,8 +1,0 @@
-C:\Users\SH65798\source\source\05-feb-22(factory-pattern)\FactoryPattern\FactoryPattern\bin\Debug\FactoryPattern.exe.config
-C:\Users\SH65798\source\source\05-feb-22(factory-pattern)\FactoryPattern\FactoryPattern\bin\Debug\FactoryPattern.exe
-C:\Users\SH65798\source\source\05-feb-22(factory-pattern)\FactoryPattern\FactoryPattern\bin\Debug\FactoryPattern.pdb
-C:\Users\SH65798\source\source\05-feb-22(factory-pattern)\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.csproj.AssemblyReference.cache
-C:\Users\SH65798\source\source\05-feb-22(factory-pattern)\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.csproj.SuggestedBindingRedirects.cache
-C:\Users\SH65798\source\source\05-feb-22(factory-pattern)\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.csproj.CoreCompileInputs.cache
-C:\Users\SH65798\source\source\05-feb-22(factory-pattern)\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.exe
-C:\Users\SH65798\source\source\05-feb-22(factory-pattern)\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.pdb

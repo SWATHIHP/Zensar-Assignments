@@ -1,6 +1,0 @@
-C:\Users\SH65798\source\source\08-feb-22(GAC creation)\Feb8TestPrj\Feb8TestPrj\bin\Debug\Feb8TestPrj.dll
-C:\Users\SH65798\source\source\08-feb-22(GAC creation)\Feb8TestPrj\Feb8TestPrj\bin\Debug\Feb8TestPrj.pdb
-C:\Users\SH65798\source\source\08-feb-22(GAC creation)\Feb8TestPrj\Feb8TestPrj\obj\Debug\Feb8TestPrj.csproj.AssemblyReference.cache
-C:\Users\SH65798\source\source\08-feb-22(GAC creation)\Feb8TestPrj\Feb8TestPrj\obj\Debug\Feb8TestPrj.csproj.CoreCompileInputs.cache
-C:\Users\SH65798\source\source\08-feb-22(GAC creation)\Feb8TestPrj\Feb8TestPrj\obj\Debug\Feb8TestPrj.dll
-C:\Users\SH65798\source\source\08-feb-22(GAC creation)\Feb8TestPrj\Feb8TestPrj\obj\Debug\Feb8TestPrj.pdb

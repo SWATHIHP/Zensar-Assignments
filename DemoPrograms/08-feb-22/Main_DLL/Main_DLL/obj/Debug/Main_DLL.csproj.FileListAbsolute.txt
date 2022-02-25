@@ -1,6 +1,0 @@
-C:\Users\SH65798\source\source\08-feb-22(GAC creation)\Main_DLL\Main_DLL\bin\Debug\Main_DLL.dll
-C:\Users\SH65798\source\source\08-feb-22(GAC creation)\Main_DLL\Main_DLL\bin\Debug\Main_DLL.pdb
-C:\Users\SH65798\source\source\08-feb-22(GAC creation)\Main_DLL\Main_DLL\obj\Debug\Main_DLL.csproj.AssemblyReference.cache
-C:\Users\SH65798\source\source\08-feb-22(GAC creation)\Main_DLL\Main_DLL\obj\Debug\Main_DLL.csproj.CoreCompileInputs.cache
-C:\Users\SH65798\source\source\08-feb-22(GAC creation)\Main_DLL\Main_DLL\obj\Debug\Main_DLL.dll
-C:\Users\SH65798\source\source\08-feb-22(GAC creation)\Main_DLL\Main_DLL\obj\Debug\Main_DLL.pdb

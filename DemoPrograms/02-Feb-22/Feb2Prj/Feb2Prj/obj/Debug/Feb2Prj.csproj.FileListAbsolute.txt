@@ -1,8 +1,0 @@
-C:\Users\SH65798\source\source\02-Feb-22\Feb2Prj\Feb2Prj\obj\Debug\Feb2Prj.csproj.AssemblyReference.cache
-C:\Users\SH65798\source\source\02-Feb-22\Feb2Prj\Feb2Prj\obj\Debug\Feb2Prj.csproj.SuggestedBindingRedirects.cache
-C:\Users\SH65798\source\source\02-Feb-22\Feb2Prj\Feb2Prj\obj\Debug\Feb2Prj.csproj.CoreCompileInputs.cache
-C:\Users\SH65798\source\source\02-Feb-22\Feb2Prj\Feb2Prj\bin\Debug\Feb2Prj.exe.config
-C:\Users\SH65798\source\source\02-Feb-22\Feb2Prj\Feb2Prj\bin\Debug\Feb2Prj.exe
-C:\Users\SH65798\source\source\02-Feb-22\Feb2Prj\Feb2Prj\bin\Debug\Feb2Prj.pdb
-C:\Users\SH65798\source\source\02-Feb-22\Feb2Prj\Feb2Prj\obj\Debug\Feb2Prj.exe
-C:\Users\SH65798\source\source\02-Feb-22\Feb2Prj\Feb2Prj\obj\Debug\Feb2Prj.pdb

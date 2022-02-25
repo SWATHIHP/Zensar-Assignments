@@ -1,3 +1,0 @@
-C:\Users\SWATHI\source\Day 3\Demo_Properties\Demo_Properties\obj\Debug\Demo_Properties.csproj.AssemblyReference.cache
-C:\Users\SWATHI\source\Day 3\Demo_Properties\Demo_Properties\obj\Debug\Demo_Properties.csproj.SuggestedBindingRedirects.cache
-C:\Users\SWATHI\source\Day 3\Demo_Properties\Demo_Properties\obj\Debug\Demo_Properties.csproj.CoreCompileInputs.cache

@@ -1,8 +1,0 @@
-C:\Users\SH65798\source\source\feb5\RemoteServers\RemoteServers\bin\Debug\RemoteServers.exe.config
-C:\Users\SH65798\source\source\feb5\RemoteServers\RemoteServers\bin\Debug\RemoteServers.exe
-C:\Users\SH65798\source\source\feb5\RemoteServers\RemoteServers\bin\Debug\RemoteServers.pdb
-C:\Users\SH65798\source\source\feb5\RemoteServers\RemoteServers\obj\Debug\RemoteServers.csproj.AssemblyReference.cache
-C:\Users\SH65798\source\source\feb5\RemoteServers\RemoteServers\obj\Debug\RemoteServers.csproj.SuggestedBindingRedirects.cache
-C:\Users\SH65798\source\source\feb5\RemoteServers\RemoteServers\obj\Debug\RemoteServers.csproj.CoreCompileInputs.cache
-C:\Users\SH65798\source\source\feb5\RemoteServers\RemoteServers\obj\Debug\RemoteServers.exe
-C:\Users\SH65798\source\source\feb5\RemoteServers\RemoteServers\obj\Debug\RemoteServers.pdb

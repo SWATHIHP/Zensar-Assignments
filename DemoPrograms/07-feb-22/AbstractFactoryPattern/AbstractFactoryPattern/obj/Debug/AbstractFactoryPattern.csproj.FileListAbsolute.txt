@@ -1,8 +1,0 @@
-C:\Users\SH65798\source\source\07-feb-22\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.csproj.AssemblyReference.cache
-C:\Users\SH65798\source\source\07-feb-22\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.csproj.SuggestedBindingRedirects.cache
-C:\Users\SH65798\source\source\07-feb-22\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.csproj.CoreCompileInputs.cache
-C:\Users\SH65798\source\source\07-feb-22\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.exe.config
-C:\Users\SH65798\source\source\07-feb-22\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.exe
-C:\Users\SH65798\source\source\07-feb-22\AbstractFactoryPattern\AbstractFactoryPattern\bin\Debug\AbstractFactoryPattern.pdb
-C:\Users\SH65798\source\source\07-feb-22\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.exe
-C:\Users\SH65798\source\source\07-feb-22\AbstractFactoryPattern\AbstractFactoryPattern\obj\Debug\AbstractFactoryPattern.pdb
