@@ -1,4 +1,13 @@
-﻿using System;
+﻿/*Create a console application and add class named Employee with following field.
+Employee Class
+EmployeeID (Integer)
+FirstName (String)
+LastName (String)
+Title (String)
+DOB (Date)
+DOJ (Date)
+City (String)*/
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
