@@ -1,1 +1,1 @@
-This is a demo file for fileextension.js program with .txt extension
+console.log("Just a demo program for fileextension.js file");

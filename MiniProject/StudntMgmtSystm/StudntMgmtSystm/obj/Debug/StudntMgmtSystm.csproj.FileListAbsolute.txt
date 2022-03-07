@@ -1,0 +1,8 @@
+C:\ZensarTestGit\MiniProject\StudntMgmtSystm\StudntMgmtSystm\bin\Debug\StudntMgmtSystm.exe.config
+C:\ZensarTestGit\MiniProject\StudntMgmtSystm\StudntMgmtSystm\bin\Debug\StudntMgmtSystm.exe
+C:\ZensarTestGit\MiniProject\StudntMgmtSystm\StudntMgmtSystm\bin\Debug\StudntMgmtSystm.pdb
+C:\ZensarTestGit\MiniProject\StudntMgmtSystm\StudntMgmtSystm\obj\Debug\StudntMgmtSystm.csproj.AssemblyReference.cache
+C:\ZensarTestGit\MiniProject\StudntMgmtSystm\StudntMgmtSystm\obj\Debug\StudntMgmtSystm.csproj.SuggestedBindingRedirects.cache
+C:\ZensarTestGit\MiniProject\StudntMgmtSystm\StudntMgmtSystm\obj\Debug\StudntMgmtSystm.csproj.CoreCompileInputs.cache
+C:\ZensarTestGit\MiniProject\StudntMgmtSystm\StudntMgmtSystm\obj\Debug\StudntMgmtSystm.exe
+C:\ZensarTestGit\MiniProject\StudntMgmtSystm\StudntMgmtSystm\obj\Debug\StudntMgmtSystm.pdb
