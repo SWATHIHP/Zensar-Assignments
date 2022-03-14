@@ -476,7 +476,7 @@
     <End Role="Employees" Type="Self.Employee" Multiplicity="*" />
     <End Role="Territories" Type="Self.Territory" Multiplicity="*" />
   </Association>
-  <EntityContainer Name="NorthwindEntities" annotation:LazyLoadingEnabled="true">
+  <EntityContainer Name="NorthwindEntities1" annotation:LazyLoadingEnabled="true">
     <EntitySet Name="Categories" EntityType="Self.Category" />
     <EntitySet Name="CustomerDemographics" EntityType="Self.CustomerDemographic" />
     <EntitySet Name="Customers" EntityType="Self.Customer" />

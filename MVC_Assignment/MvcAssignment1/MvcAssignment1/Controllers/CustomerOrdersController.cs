@@ -9,7 +9,7 @@ namespace MvcAssignment1.Controllers
 {
     public class CustomerOrdersController : Controller
     {
-        NorthwindEntities db = new NorthwindEntities();
+        NorthwindEntities1 db = new NorthwindEntities1();
         // GET: CustomerOrders
         public ActionResult Index()
         {

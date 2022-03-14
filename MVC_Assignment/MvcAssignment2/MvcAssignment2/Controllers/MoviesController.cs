@@ -8,7 +8,7 @@ namespace MvcAssignment2.Controllers
 {
     public class MoviesController : Controller
     {
-        MoviesdatabaseEntities1 mv = new MoviesdatabaseEntities1();
+        MoviesEntities1 mv = new MoviesEntities1();
         // GET: Movies
         public ActionResult Index()
         {

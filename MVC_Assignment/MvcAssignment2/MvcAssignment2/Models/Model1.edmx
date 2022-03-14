@@ -27,9 +27,9 @@
           </Key>
           <Property Name="movie_id" Type="Int32" Nullable="false" />
           <Property Name="movie_name" Type="String" MaxLength="30" FixedLength="false" Unicode="false" />
-          <Property Name="movie_dor" Type="DateTime" />
+          <Property Name="movie_dor" Type="DateTime" Precision="0" />
         </EntityType>
-        <EntityContainer Name="MoviesEntities" annotation:LazyLoadingEnabled="true">
+        <EntityContainer Name="MoviesEntities1" annotation:LazyLoadingEnabled="true">
           <EntitySet Name="Moviestables" EntityType="Self.Moviestable" />
         </EntityContainer>
       </Schema>
@@ -37,7 +37,7 @@
     <!-- C-S mapping content -->
     <edmx:Mappings>
       <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
-        <EntityContainerMapping StorageEntityContainer="MoviesModelStoreContainer" CdmEntityContainer="MoviesEntities">
+        <EntityContainerMapping StorageEntityContainer="MoviesModelStoreContainer" CdmEntityContainer="MoviesEntities1">
           <EntitySetMapping Name="Moviestables">
             <EntityTypeMapping TypeName="MoviesModel.Moviestable">
               <MappingFragment StoreEntitySet="Moviestable">
