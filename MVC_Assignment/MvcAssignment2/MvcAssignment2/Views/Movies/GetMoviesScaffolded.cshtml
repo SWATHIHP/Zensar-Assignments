@@ -1,0 +1,46 @@
+﻿@model IEnumerable<MvcAssignment2.Models.Moviestable>
+
+@{
+    ViewBag.Title = "GetMoviesScaffolded";
+}
+
+<h2>GetMoviesScaffolded</h2>
+<p>
+    @using (Html.BeginForm("GetMoviesByYear", "Movies", FormMethod.Get))
+    {
+        <text><b>Search Movies By Year</b></text> @Html.TextBox("search")<input type="submit" value="search" />
+    }
+</p>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>Movie Id</th>
+        <th>Movie Name</th>
+        <th>Movie Release Date</th>
+        <th>Actions</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.movie_id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.movie_name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.movie_dor)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.movie_id }) |
+                @Html.ActionLink("Details", "Details", new { id = item.movie_id }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.movie_id })
+            </td>
+        </tr>
+    }
+
+</table>

@@ -1,0 +1,2 @@
+C:\ZensarTestGit\MVC_Assignment\MvcAssignment1\MvcAssignment1\obj\Debug\MvcAssignment1.csproj.AssemblyReference.cache
+C:\ZensarTestGit\MVC_Assignment\MvcAssignment1\MvcAssignment1\obj\Debug\MvcAssignment1.csproj.CoreCompileInputs.cache

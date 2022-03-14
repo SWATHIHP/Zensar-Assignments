@@ -1,0 +1,41 @@
+﻿@model MvcAssignment2.Models.Moviestable
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Moviestable</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Movie Id
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.movie_id)
+        </dd>
+        <dt>
+            Movie Name
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.movie_name)
+        </dd>
+
+        <dt>
+            Movie ReleaseDate
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.movie_dor)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.movie_id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
