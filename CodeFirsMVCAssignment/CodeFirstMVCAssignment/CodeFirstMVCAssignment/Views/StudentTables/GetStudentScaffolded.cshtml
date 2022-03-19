@@ -1,0 +1,76 @@
+﻿@model IEnumerable<CodeFirstMVCAssignment.Models.StudentTable>
+
+@{
+    ViewBag.Title = "GetStudentScaffolded";
+}
+
+<h2>GetMoviesScaffolded</h2>
+<p>
+    @using (Html.BeginForm("SearchBY", "Student", FormMethod.Get))
+    {
+        <b>Search By:</b> @Html.RadioButton("searchBy", "City")<text>City</text>
+        @Html.RadioButton("searchBy", "Branch")<text>Branch</text>
+
+        @Html.RadioButton("searchBy", "StudentId")<text>StudentId</text>
+        @Html.TextBox("search") <input type="submit" value="search" /><br />
+    }
+</p>
+<p>
+    @using (Html.BeginForm("searchbyPercentage", "Student", FormMethod.Get))
+    {
+        <b>Search by Percentage:</b><text>start Range</text> @Html.TextBox("start")
+        <text>End Range</text>@Html.TextBox("end") <input type="submit" value="search" /><br />
+
+    }
+</p>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            Student Id
+        </th>
+        <th>
+            Student Name
+        </th>
+        <th>
+            City
+        </th>
+        <th>
+            Branch
+        </th>
+        <th>
+            Percentage
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @item.Id
+            </td>
+            <td>
+                @item.Name
+            </td>
+            <td>
+                @item.City
+            </td>
+            <td>
+                @item.Branch
+            </td>
+            <td>
+                @item.Percentage
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.StudentId }) |
+                @Html.ActionLink("Details", "Details", new { id = item.StudentId }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.StudentId })
+            </td>
+        </tr>
+    }
+
+</table>
