@@ -1,0 +1,8 @@
+C:\ZensarTestGit\Code Challenge\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.AssemblyReference.cache
+C:\ZensarTestGit\Code Challenge\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.SuggestedBindingRedirects.cache
+C:\ZensarTestGit\Code Challenge\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.CoreCompileInputs.cache
+C:\ZensarTestGit\Code Challenge\EmployeeManagement\EmployeeManagement\bin\Debug\EmployeeManagement.exe.config
+C:\ZensarTestGit\Code Challenge\EmployeeManagement\EmployeeManagement\bin\Debug\EmployeeManagement.exe
+C:\ZensarTestGit\Code Challenge\EmployeeManagement\EmployeeManagement\bin\Debug\EmployeeManagement.pdb
+C:\ZensarTestGit\Code Challenge\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.exe
+C:\ZensarTestGit\Code Challenge\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.pdb
